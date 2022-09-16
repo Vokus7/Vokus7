@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vokus7
 - 👀 I’m interested in becoming a fullstack web developer
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently working with React, Javascript and Tailwind.
 - 💞️ I’m looking to collaborate on any suitable learning project
 - 📫 This is my email address eddyfree69@gmail.com
 
